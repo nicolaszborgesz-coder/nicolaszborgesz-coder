@@ -1,5 +1,5 @@
 # nicolaszborgesz-coder
-# Olá, eu sou o Nicolas Cardoso Borges 
+# Saudação, eu sou o Nicolas Cardoso Borges
 
 > Beginner Developer | Web Development (HTML, CSS, JS) | Python for Accounting Automation
 
