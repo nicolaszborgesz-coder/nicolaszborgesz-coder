@@ -29,7 +29,7 @@ Desenvolvedor iniciante com prática em projetos pessoais de desenvolvimento web
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ###  Vamos nos conectar?
--  Barcarena, Pará - Brasil
+-  Belém, Pará - Brasil
 -  Em busca da primeira oportunidade como Desenvolvedor
 
 **Se curtiu meu perfil, deixa uma estrela!**
